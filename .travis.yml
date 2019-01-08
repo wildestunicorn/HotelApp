@@ -1,2 +1,2 @@
 langage: java
-script: mvn package; mvn jetty:run
+script: mvn package
